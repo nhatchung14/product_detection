@@ -1,0 +1,1 @@
+This folder includes trained models ready for inference.
